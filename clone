@@ -1,3 +1,3 @@
-git clone https://github.com/heroku/node-js-getting-started <your app’s name>
-cd <your app’s name>
-heroku git:remote -a <your app’s name> 
+git clone https://github.com/heroku/node-js-getting-started <parent2020>
+cd <parent2020>
+heroku git:remote -a <parent2020> 
